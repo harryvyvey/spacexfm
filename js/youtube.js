@@ -37,6 +37,7 @@ var trackList = [
     {'videoId': 'TIu2VK_4Y0o', 'startSeconds':287, 'endSeconds': undefined,  'name': 'Andromeda',                              'artist': 'Test Shot Starfish' },
     {'videoId': 'fbvJEghT4Ks', 'startSeconds':0, 'endSeconds': 318,          'name': 'Re-Flight',                              'artist': 'Test Shot Starfish' },
     {'videoId': 'URh-oPqjlM8', 'startSeconds':0, 'endSeconds': 356,          'name': 'In the Shadow of Giants',                'artist': 'Test Shot Starfish' },
+	{'videoId': 'NDJn0SQehb4', 'startSeconds':0, 'endSeconds': undefined,          'name': 'Light Years',                'artist': 'Stellardrone' },
 ];
 
 var trackPlaying = false;
